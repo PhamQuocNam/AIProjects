@@ -1,0 +1,7 @@
+numpy==2.2.3
+pandas==2.2.3
+scikit_learn==1.6.1
+tokenizers==0.21.0
+torch==2.6.0+cu118
+tqdm==4.67.1
+transformers==4.49.0
