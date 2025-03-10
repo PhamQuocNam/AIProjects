@@ -19,7 +19,7 @@ In the [infer.py](./infer.py), please enter your input in the main() function, a
 python infer.py --model_name bert_model
 ```
 
-* Refer to [infer_example.py](./infer_example.py) for both non-BERT-based models and BERT-based models.
+* Refer to [infer.py](./infer.py) for both non-BERT-based models and BERT-based models.
 
 
 ### Tips
