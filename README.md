@@ -13,6 +13,11 @@ python train.py --model_name bert_model --dataset laptop --epochs 50
 ```
 
 ### Inference
+In the [infer.py](./infer.py), please enter your input in the main() function, and run by write on the terminal:
+
+```sh
+python infer.py --model_name bert_model
+```
 
 * Refer to [infer_example.py](./infer_example.py) for both non-BERT-based models and BERT-based models.
 
